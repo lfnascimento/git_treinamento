@@ -1,3 +1,12 @@
 
 hello git hello
 hello
+<<<<<<< HEAD
+=======
+=======
+vamo bugar tudo
+testetestestes
+nhacnhac
+
+
+>>>>>>> 5f110e3a2ae1359735a6aa4cf37b695c68610cbf
