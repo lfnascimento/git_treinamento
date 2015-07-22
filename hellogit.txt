@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+
+hello git hello
+hello
+<<<<<<< HEAD
+=======
+=======
+=======
+hello git hello
+hello
+>>>>>>> 2efc395e6ff2d31b62173c6f6c60d9e7f96c41f9
+vamo bugar tudo
+<<<<<<< HEAD
+=======
+testetestestes
+nhacnhac
+
+>>>>>>> 7ed6b971e9d591c2495d25a325e5eb066869dd25
+
+>>>>>>> 5f110e3a2ae1359735a6aa4cf37b695c68610cbf
