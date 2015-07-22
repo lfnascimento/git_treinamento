@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+
 hello git hello
 hello
-=======
-vamo bugar tudo
->>>>>>> 378254e4b741aaaa289c25b2b1801dba72ee820e
