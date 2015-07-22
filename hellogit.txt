@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 hello git hello
 hello
-=======
 vamo bugar tudo
+<<<<<<< HEAD
+=======
 testetestestes
 nhacnhac
 
+>>>>>>> 7ed6b971e9d591c2495d25a325e5eb066869dd25
 
