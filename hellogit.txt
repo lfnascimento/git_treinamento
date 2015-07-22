@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+hello git hello
+hello
+=======
+vamo bugar tudo
+testetestestes
+nhacnhac
+
+
